@@ -1,0 +1,12 @@
+@font-face {
+    font-family: ZhuZiAWa1n;
+    src: url('./assets/font/zhuziAwa1n.ttf');
+    font-display: swap;
+}
+
+body {
+    color: black;
+    font-family: ZhuZiAWa1n, serif !important;
+    word-break: break-word;
+    font-size: 14px;
+}
